@@ -10,7 +10,7 @@
       <!-- Sesuaikan nama desa masing-masing -->
       <p class="text-white text-3xl">Desa Sukaraksa</p>
       <p class="text-white text-3xl">Kab. Bogor</p>
-      <p class="text-white text-2xl">Alamat : Kp. Juga Jalan Rt.004 Rw.004
+      
     </div>
     <div class="grid place-items-center ml-auto mr-20">
       <iframe
