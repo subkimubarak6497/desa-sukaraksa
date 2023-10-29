@@ -20,7 +20,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. 1.	Meningkatkan Pembangunan Infrastruktur yang Profesional dan berkelanjutan;
+          1. Meningkatkan Pembangunan Infrastruktur yang Profesional dan berkelanjutan;
         </li>
         <li>
           2. Menyelenggarakan pendidikan melalui pelatihan secara periodik;
