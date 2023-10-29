@@ -15,9 +15,7 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa Sukaraksa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “Maju dan Sejahtera Bersama Rakyat ”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
