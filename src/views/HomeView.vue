@@ -49,7 +49,9 @@ import Sidebar from "../components/Sidebar.vue";
           swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
         </li>
         <li>
-          9. aa ;
+          9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
+          keinginan dan permasalahan yang terjadi ditengah masyarakat yang
+          majemuk dan dinamis ssssssss ;
         </li>
         <li>     
 
