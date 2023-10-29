@@ -37,7 +37,7 @@ import Sidebar from "../components/Sidebar.vue";
           karakter dasar dari masyarakat desa dan juga bangsa Indonesia;
         </li>
         <li>
-          6. Memberikan pelayanan pembuatan administrasi kependudukan, seperti pengantar KTP, pengantar Kartu Keluarga dan Linnya di;
+          6. Memberikan pelayanan pembuatan administrasi kependudukan, seperti pengantar KTP, pengantar Kartu Keluarga dan Linnya ;
         </li>
         <li>
           7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
