@@ -63,7 +63,7 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
     <div class="flex-1 p-10">
       <p>
-      <img src="@/assets/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
+      <img src="@/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
     </div>
   </main>
 </template>
