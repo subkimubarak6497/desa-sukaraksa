@@ -65,8 +65,8 @@ import Sidebar from "../components/Sidebar.vue";
   <main class="flex">
     <Sidebar />
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold my-4">Struktur Desa</p>
-      <img src="@/assets/struktur-desa-sukaraksa.png.jpeg" alt="" />
+      <p class="text-3xl font-semibold my-4">Data Kependudukan Desa Sukaraksa</p>
+      <img src="@/assets/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
     </div>
   </main>
 </template>
