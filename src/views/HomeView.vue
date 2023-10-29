@@ -20,36 +20,24 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. 1.	Meningkatkan Pembangunan Infrastruktur yang Profesional dan berkelanjutan;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Menyelenggarakan pendidikan melalui pelatihan secara periodik;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Menjadikan Desa pengiringan yang cerdas, maju, mandiri dan sejahtera;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Peduli terhadap kepentingan masyarakat dan lingkungan;
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Membina dan memantapkan kehidupan gotong royongsebagai basis dan
+          modal dasar pembangunan desa, yang pada hakikatnya juga merupakan
+          karakter dasar dari masyarakat desa dan juga bangsa Indonesia;
         </li>
         <li>
-          6. Mendorong majunya Pendidikan formal maupun nonformal seperti
-          pesantren, LPK, diklat serta penyuluhan pertanian yang mudah diakses
-          dan dinikmati seluruh warga masyarakat, guna menghasilkan insan
-          intelektual, berakhlak mulia, inovatif dan entrepreneur;
+          6. Memberikan pelayanan pembuatan administrasi kependudukan, seperti pengantar KTP, pengantar Kartu Keluarga dan Linnya di;
         </li>
         <li>
           7. Menyalurkan segala bentuk bantuan dari Pemerintah Kabupaten,
@@ -66,9 +54,7 @@ import Sidebar from "../components/Sidebar.vue";
           majemuk dan dinamis;
         </li>
         <li>
-          10. Membina dan memantapkankehidupan gotong royongsebagai basis dan
-          modal dasar pembangunan desa, yang pada hakikatnyajuga merupakan
-          karakter dasar dari masyarakat desa dan juga bangsa Indonesia.
+        
         </li>
       </ul>
     </div>
