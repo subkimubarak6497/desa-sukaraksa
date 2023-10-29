@@ -10,7 +10,7 @@
       <p class="text-lg leading-none uppercase text-white font-bold mb-2">
         Desa Sukaraksa
       </p>
-      class="text-lg leading-none uppercase text-white font-bold mb-2">
+      </p class="text-lg leading-none uppercase text-white font-bold mb-2">
         Kecamatan Cigudeg
       </p>
       <p class="text-lg leading-none uppercase text-white font-bold">
