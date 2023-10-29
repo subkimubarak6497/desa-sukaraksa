@@ -49,7 +49,7 @@ import Sidebar from "../components/Sidebar.vue";
           swasta guna optimalisasi suatu tujuan lebih baik dan lebih maksimal;
         </li>
         <li>
-          9. ;
+          9. aa ;
         </li>
         <li>     
 
