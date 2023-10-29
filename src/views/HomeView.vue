@@ -55,10 +55,7 @@ import Sidebar from "../components/Sidebar.vue";
         </li>
         <li>
         
-        </li>
-      </ul>
-    </div>
-  </main>
+       
 </template>
   <Header />
   <Banner />
