@@ -55,18 +55,6 @@ import Sidebar from "../components/Sidebar.vue";
         </li>
         <li>
 ![alt text](Data-kependudukan-sukaraksa.jpg.jpeg?raw=true)        
-       
-<template>
-  <Header />
-  <Banner />
-  <main class="flex">
-    <Sidebar />
-    <div class="flex-1 p-10">
-      <p>
-      <img src="@/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
-    </div>
-  </main>
-</template>
 
 <style>
 body {
