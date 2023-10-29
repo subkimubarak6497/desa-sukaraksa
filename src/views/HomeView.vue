@@ -63,7 +63,7 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
     <div class="flex-1 p-10">
       <p class="text-3xl font-semibold my-4">Struktur Desa</p>
-      <img src="@/assets/struktur-desa-sukaraksa.png.jpeg" alt="" />
+      <img src="@/assets/https://github.com/subkimubarak6497/desa_sukaraksa/blob/main/src/Data-kependudukan-sukaraksa.jpg.jpeg" alt="" />
     </div>
   </main>
 </template>
