@@ -12,7 +12,7 @@ import Sidebar from "../components/Sidebar.vue";
     <Sidebar />
 
     <div class="flex-1 p-10">
-      <p class="text-3xl font-semibold">Visi & Misi Desa Sukaraksa</p>
+      <p class="text-3xl font-semibold">Visi & Misi Desa cigudeg</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
         “Maju dan Sejahtera Bersama Rakyat ”
