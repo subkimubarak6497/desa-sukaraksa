@@ -54,7 +54,7 @@ import Sidebar from "../components/Sidebar.vue";
           majemuk dan dinamis;
         </li>
         <li>
-        
+![alt text](Data-kependudukan-sukaraksa.jpg.jpeg?raw=true)        
        
 <template>
   <Header />
