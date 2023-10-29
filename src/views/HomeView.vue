@@ -51,7 +51,7 @@ import Sidebar from "../components/Sidebar.vue";
         <li>
           9. Responsive dan aspiratif atas segala bentuk kebutuhan atau
           keinginan dan permasalahan yang terjadi ditengah masyarakat yang
-          majemuk dan dinamis;
+          majemuk dan dinamis dan transparasi;
         </li>
         <li>     
 
